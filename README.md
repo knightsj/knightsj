@@ -4,7 +4,7 @@
 
 - 🔭 Working on:iOS & Java
 - 🌱 Focusing on:Coding & Reading & Investment
-- 📫 How to reach me:shijie0111@163.com
+- 📫 How to reach me:ssjlife0111@163.com
 - 🖊️ My Blog:https://knightsj.github.io/
 - 😄 WeChat Public Account
   - Tech:[程序员维他命](https://mp.weixin.qq.com/s/hEu55DEymk7AvtonK5EQ6g)
