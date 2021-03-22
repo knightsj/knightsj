@@ -6,9 +6,6 @@
 - 🌱 Focusing on:Coding & Reading & Investment
 - 📫 How to reach me:ssjlife0111@163.com
 - 🖊️ My Blog:https://knightsj.github.io/
-- 😄 WeChat Public Account
-  - Tech:[程序员维他命](https://mp.weixin.qq.com/s/hEu55DEymk7AvtonK5EQ6g)
-  - Investment:[复利公社](https://mp.weixin.qq.com/s/7-CSOxKEnmorTDU0I4qpCw)
 
 
 
